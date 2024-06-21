@@ -9,3 +9,4 @@ docx2txt
 wikipedia
 pinecone
 pycryptodome
+pysen[lint]
